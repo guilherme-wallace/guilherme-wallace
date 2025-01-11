@@ -2,6 +2,8 @@
 ## I'm Guilherme Wallace!
 
 - I study Control and Automation Engineering at the Instituto federal do Espírito Santo - IFES
+- I’m currently working on personal projects.
+- I’m looking to collaborate on research and internship.
 
 
 ## Languages and Tools:
