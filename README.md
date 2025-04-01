@@ -1,17 +1,15 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello Devs! Welcome to my GitHub profile!
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9jY3V5Z3N0Z2R6d3Z0b2V4dXJ5Z2V4dW5tZzZ6eGJjM3Z1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right">
-
 ## I'm Guilherme Wallace - Control and Automation Engineer & Developer
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9jY3V5Z3N0Z2R6d3Z0b2V4dXJ5Z2V4dW5tZzZ6eGJjM3Z1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="350" align="right">
+
+### 🛠️ Tech Stack
 
 - 🎓 Studying Control and Automation Engineering at [IFES](https://www.ifes.edu.br/)
 - 💻 Currently working on personal projects to expand my skills
 - 🤝 Looking to collaborate on research projects and internships
 - 🚀 Always learning new technologies and development practices
-
-### 🛠️ Tech Stack
-
-<div align="center">
 
 #### Programming Languages
 <p>
