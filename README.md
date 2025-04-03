@@ -38,11 +38,12 @@
 </p>
 
 </div>
-
+<!--
 ### 🤖 Automation Zone
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWlqY2F5b3B1N3V1b2V5Y2VjZ3Z5ZzJ6eGJjM3Z1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hEc4k5pN17GZq/giphy.gif" width="300" alt="404 Error" title="Debugging Life">
 </div>
+-->
 
 ### 📊 GitHub Analytics
 
